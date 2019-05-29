@@ -1,4 +1,4 @@
-﻿namespace Monopoly
+﻿namespace Monopoly.Player
 {
     internal enum PlayingTool
     {

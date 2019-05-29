@@ -1,6 +1,7 @@
-﻿using Monopoly.Properties;
+﻿using Monopoly.Cards;
+using Monopoly.Properties;
 
-namespace Monopoly
+namespace Monopoly.Player
 {
     class Player
     {

@@ -1,6 +1,4 @@
-﻿using Monopoly.Cards;
-
-namespace Monopoly
+﻿namespace Monopoly.Cards
 {
     public class Card
     {

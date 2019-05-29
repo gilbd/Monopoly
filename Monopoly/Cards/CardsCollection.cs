@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Monopoly
+namespace Monopoly.Cards
 {
     public class CardsCollection
     {
